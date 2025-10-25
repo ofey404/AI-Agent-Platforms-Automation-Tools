@@ -811,6 +811,7 @@ AI agents purpose-built for workflow automation, CRM, sales, HR, and general bus
 | [Pine AI](https://pine.ai) | Personal Assistant | AI assistant for personal productivity and life organization | Personal automation, task management, lifestyle optimization |
 | [Proactor AI](https://proactor.ai) | Business Intelligence | AI platform for proactive business intelligence and insights | Predictive analytics, business automation, decision support |
 | [ProdPad CoPilot for Product Managers](https://prodpad.com) | Product Management | AI copilot for product managers and development teams | Product planning, roadmap management, feature prioritization |
+| [Prompt Builder](https://promptbuilder.cc) | Prompt Engineering Assistant | AI prompt engineering platform that generates, optimizes, and organizes high-quality prompts for ChatGPT, Claude, Gemini, and other leading LLMs | Guided prompt generator, prompt optimization engine, personal prompt library, multi-model support |
 | [ReadPo](https://readpo.com) | Reading Assistant | AI assistant for reading comprehension and content analysis | Reading optimization, content summarization, knowledge extraction |
 | [Reclaim AI](https://reclaim.ai) | Time Management | AI-powered time management and calendar optimization | Intelligent scheduling, focus time protection, habit tracking |
 | [Recrubo.ai](https://recrubo.ai) | Recruitment | AI-powered recruitment and talent acquisition platform | Candidate matching, interview automation, hiring optimization |
